@@ -1,0 +1,12 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÊRINFOZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "str".(ÓŠû¬úÿÿÿÿ8á€ÎÕ0HÎRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÚ…ıÿÿÿÿ8á€ÎÕ0HÏRMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "str" local variable.(ÓŠû¬úÿÿÿÿ8á€ÎÕ0HĞRMINORZ
+CODE_SMELL

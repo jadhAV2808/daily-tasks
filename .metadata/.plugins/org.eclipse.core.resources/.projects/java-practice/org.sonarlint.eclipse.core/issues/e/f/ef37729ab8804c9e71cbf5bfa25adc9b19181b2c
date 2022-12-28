@@ -1,0 +1,13 @@
+
+t
+java:S1659"BDeclare "digit" and all following declarations on a separate line.(ÒÈ×8ñÈ¿Õ0H`RMINORZ
+CODE_SMELL
+o	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ö•šûÿÿÿÿ8ñÈ¿Õ0HdRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ææ Ï8ñÈ¿Õ0HeRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(™§™8ñÈ¿Õ0HfRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(Îÿ§’şÿÿÿÿ8ñÈ¿Õ0HgRMAJORZ
+CODE_SMELL

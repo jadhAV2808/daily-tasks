@@ -1,0 +1,8 @@
+
+Ч
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Д«ЪМь€€€€8их»Ћ’0HШRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ј°ж>8их»Ћ’0HЩRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ѓэблы€€€€8их»Ћ’0HЪRMAJORZ
+CODE_SMELL
