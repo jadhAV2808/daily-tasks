@@ -1,0 +1,14 @@
+
+\
+java:S1659"$Declare "result" on a separate line.(·ÜœÕûÿÿÿÿ8õİÔéÕ0HºRMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¶RINFOZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.( ºæÄûÿÿÿÿ8õİÔéÕ0H¹RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¡ÕéÕ0HÃRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(âğL8õİÔéÕ0H¼RMAJORZ
+CODE_SMELL

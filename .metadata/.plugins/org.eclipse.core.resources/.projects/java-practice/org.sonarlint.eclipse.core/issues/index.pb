@@ -63,3 +63,55 @@ U
 %src/com/string/StringSndChecker2.java,6\a\6ae3c290689f42c7be59242f91a9480a3cc1bab1
 V
 &src/com/string/MaxOccurenceFinder.java,f\a\faf77bbc35f373bb3498635c89c951792703e58f
+P
+ src/com/string/StringSesrch.java,9\c\9c3d08eb0fa738bbd4ec51ec5a44a0e04fc525ad
+P
+ src/com/string/VOwelRemover.java,b\a\ba5634b237c69c02b7369490a1a83381bc1b68bd
+Q
+!src/com/string/VowelRemover2.java,e\c\ece812da8772ab5ecaa1aacf17975a606ef3847c
+^
+.src/com/string/CountOfVowelsAndConsonants.java,9\0\90307506ee55106aec168cfed80479d94f2529f9
+L
+src/com/entry/java/Data.java,8\e\8ee7f58b1e0d6b601da7948b5ddf728c2da92910
+N
+src/com/entry/java/sample.java,a\c\ac2259c63d693715ce1d7611a3590fb55c6c0c65
+O
+src/com/entry/java/Sample3.java,f\b\fb3751a004f700603e18a10c041b04ba119258a4
+O
+src/com/entry/java/Sample2.java,c\d\cd8433d40840e2a55f5abb6b652116a25f3c14db
+Z
+*src/com/string/DuplicateCharGenerator.java,1\c\1c0914f38ae2fde6c4b8439f194c0471a9fa06a3
+W
+'src/com/string/DuplicateGenerator2.java,f\d\fd0a5979fc19310a1c0b2dae6ad01cfa19f61630
+S
+#src/com/string/EvenWordPrinter.java,c\2\c2e3c1be5e0afc1655862de5303f69cf639ae976
+T
+$src/com/string/EvenWordPrinter2.java,9\4\94183ebbe78927ab33368c61f29c68e9a3e3a486
+S
+#src/com/string/NextCharReplace.java,c\5\c5ba8c33cbe890ea65d4c5a1d7f7642fe9d102d6
+V
+&src/com/string/StringOrderChecker.java,e\3\e377f28fc3b5d00f18895277d4817c532661edeb
+^
+.src/com/string/DuplicateConsecutiveFinder.java,5\3\533da2c37ca229a11d00ec40332b2382c64747fc
+P
+ src/com/string/MiddleFinder.java,7\0\7014c85e6a87c9ae7c251107cbc5c8970250134a
+P
+ src/com/recursion/Factorial.java,c\3\c3a94696e7876dfebc500effeec5503707d46616
+O
+src/com/recursion/SumOfNum.java,c\e\ced15c0872598e5e207264b427545487c768aa42
+L
+src/com/recursion/Power.java,d\0\d0d5f67b19edb1519b928d1dabe794440cc21693
+W
+'src/com/recursion/SumOfCubicNumber.java,e\c\ec66739728132bd3eee8700eb4c08e5ba73524b4
+P
+ src/com/arrays/MinMaxFinder.java,6\7\677de1de12b371973ea2b5722037eca72f7bda1c
+c
+3src/com/arrays/SumOfPositiveAndNegativeNumbers.java,2\1\2162af62291f5208c531c7df6fc02c4dc7ad9b88
+Z
+*src/com/arrays/SumOfEvenAndOddNumbers.java,5\2\526fb29cf3d0fd88d8417149e7e2f557fb53a2d9
+S
+#src/com/arrays/ReversePrinting.java,a\e\aea932fbd70a99224fb3822c94ba121bb1560bb2
+T
+$src/com/arrays/OddIndexElements.java,a\8\a87d7300e36a96fab9bf5e24cdb57c727d834a0b
+P
+ src/com/arrays/ReverseArray.java,b\9\b9b2ab7df0a00743b15f521f5806a6ef431cd7db

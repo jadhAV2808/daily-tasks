@@ -1,0 +1,17 @@
+package com.recursion;
+
+public class Factorial {
+	
+	public static int factorialFinder(int num) {
+		if(num==1)
+			return 1;
+		else
+			return num*factorialFinder(num-1);
+	}
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

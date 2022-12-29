@@ -1,0 +1,11 @@
+
+T
+java:S1643"Use a StringBuilder instead.(Çúƒèüÿÿÿÿ8ôúßèÕ0H™RMINORZ
+CODE_SMELL
+\
+java:S1659"$Declare "result" on a separate line.(·ÜœÕûÿÿÿÿ8ôúßèÕ0HšRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(âğL8ôúßèÕ0HœRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ôúßèÕ0HRMAJORZ
+CODE_SMELL
