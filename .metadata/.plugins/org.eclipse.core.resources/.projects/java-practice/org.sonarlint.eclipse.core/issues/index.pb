@@ -115,3 +115,11 @@ T
 $src/com/arrays/OddIndexElements.java,a\8\a87d7300e36a96fab9bf5e24cdb57c727d834a0b
 P
  src/com/arrays/ReverseArray.java,b\9\b9b2ab7df0a00743b15f521f5806a6ef431cd7db
+[
++src/com/twoD/array/MatrixFromUserInput.java,7\7\778bf5dc7797f824c9ee492118d39570d67b7f77
+U
+%src/com/twoD/array/SumOfMatrices.java,9\2\92379aa7559d554708fa9d5d806c3a3408fbac2c
+W
+'src/com/matrix/MatrixFromUserInput.java,0\f\0f6ae076f96f87c8f93831337ac6c98bf8caa3d7
+T
+$src/com/matrix/DiagonalPrinting.java,d\0\d09b4586e99dc30a8ddd92a1ad5d9a0048165705
