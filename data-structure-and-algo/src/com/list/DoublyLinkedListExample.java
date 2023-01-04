@@ -1,9 +1,8 @@
 package com.list;
 
-public class SinglyLinkedListExample {
+public class DoublyLinkedListExample {
 	
 	public static void main(String[] args) {
-		
 		
 		Employee e1=new Employee(121,"jane","jones");
 		Employee e2=new Employee(131,"john","scena");
@@ -12,7 +11,7 @@ public class SinglyLinkedListExample {
 		Employee e5=new Employee(161,"mary","smith");
 		Employee e6=new Employee(171,"mike","wilson");
 		
-		EmployeeLinkedList list=new EmployeeLinkedList();
+		EmployeeDoublyLinkedList list=new EmployeeDoublyLinkedList();
 		
 		list.addToFront(e6);
 		list.addToFront(e5);
