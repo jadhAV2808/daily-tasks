@@ -1,12 +1,0 @@
-
-p	java:S106"9Replace this use of System.out or System.err by a logger.(»¾§±üÿÿÿÿ8òôÒÇÕ0HRMAJORZ
-CODE_SMELL
-o
-java:S3518";Make sure "sum" can't be zero before doing this modulation.(¨ÊÂ¬ùÿÿÿÿ8òôÒÇÕ0H—RCRITICALZBUG
-r
-java:S1659"@Declare "sum" and all following declarations on a separate line.(ÁØÓ8òôÒÇÕ0HšRMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(´Ìçùÿÿÿÿ8òôÒÇÕ0HŸRMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(í˜‡ùÿÿÿÿ8òôÒÇÕ0H RMAJORZ
-CODE_SMELL

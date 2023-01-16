@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "92e02675-82a4-4d4a-b055-5c8ffa775a3d",
+      "name": "milllinaorie",
+      "earnings": "2232342",
+      "description": null
+    },
+    {
+      "id": "23d1efda-b47f-49a4-b009-3a8eade16e92",
+      "name": "asads",
+      "earnings": "2232342",
+      "description": null
+    },
+    {
+      "id": "3c14dfe4-1c32-4e46-b509-49a7fc8f2e9d",
+      "name": "asadswe",
+      "earnings": "34342",
+      "description": null
+    }
+  ]
+}

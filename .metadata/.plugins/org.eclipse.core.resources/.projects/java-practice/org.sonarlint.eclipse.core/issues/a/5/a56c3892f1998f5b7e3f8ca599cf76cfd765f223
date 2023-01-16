@@ -1,12 +1,0 @@
-
-x
-java:S1659"ADeclare "even" and all following declarations on a separate line.(๛ฌโวþÿÿÿÿ8ุ๋ปี0H$RMINORZ
-CODE_SMELL
-o	java:S106	"9Replace this use of System.out or System.err by a logger.( ถþÿÿÿÿ8ุ๋ปี0H(RMAJORZ
-CODE_SMELL
-m	java:S125"<This block of commented-out lines of code should be removed.(๑Þดแ8ุ๋ปี0H)RMAJORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(€ฺู”þÿÿÿÿ8ุ๋ปี0H*RMAJORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(þฅถ๙ÿÿÿÿ8ุ๋ปี0H+RMAJORZ
-CODE_SMELL

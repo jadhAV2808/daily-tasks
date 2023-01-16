@@ -1,18 +1,0 @@
-
-p	java:S106 "9Replace this use of System.out or System.err by a logger.(ÑÅô‘üÿÿÿÿ8ÈÒëñÕ0H¶RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¯»¬üÿÿÿÿ8ÈÒëñÕ0HµRMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŸÚÿøÿÿÿÿ8úÅÚñÕ0H«RMAJORZ
-CODE_SMELL
-\
-java:S1659"$Declare "oddSum" on a separate line.(Æç‚°ùÿÿÿÿ8ÈÒëñÕ0H³RMINORZ
-CODE_SMELL
-]
-java:S1197"*Move the array designators [] to the type.(ò¢£»8úÅÚñÕ0H¬RMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(éƒŞçúÿÿÿÿ8úÅÚñÕ0HªRMAJORZ
-CODE_SMELL
-b
-java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH§RINFOZ
-CODE_SMELL

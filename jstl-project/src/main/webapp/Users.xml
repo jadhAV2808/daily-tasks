@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user>
+		<name>Pooja</name>
+		<gender>Female</gender>
+		<age>23</age>
+	</user>
+	<user>
+		<name>rama</name>
+		<gender>Male</gender>
+		<age>26</age>
+	</user>
+	<user>
+		<name>Mamata</name>
+		<gender>Female</gender>
+		<age>33</age>
+	</user>
+	<user>
+		<name>Shital</name>
+		<gender>Female</gender>
+		<age>23</age>
+	</user>
+</users>
+
+
+
+
+

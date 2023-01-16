@@ -1,15 +1,0 @@
-
-\
-java:S1659")Declare "negativeSum" on a separate line.(ä“îÜ8§ÓëòÕ0H»RMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŸÚÿøÿÿÿÿ8§ÓëòÕ0H¾RMAJORZ
-CODE_SMELL
-p	java:S106 "9Replace this use of System.out or System.err by a logger.(ûÆğüÿÿÿÿ8§ÓëòÕ0HÃRMAJORZ
-CODE_SMELL
-]
-java:S1197"*Move the array designators [] to the type.(ò¢£»8§ÓëòÕ0H¿RMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(éƒŞçúÿÿÿÿ8§ÓëòÕ0H½RMAJORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(©«Ó­8§ÓëòÕ0HÂRMAJORZ
-CODE_SMELL

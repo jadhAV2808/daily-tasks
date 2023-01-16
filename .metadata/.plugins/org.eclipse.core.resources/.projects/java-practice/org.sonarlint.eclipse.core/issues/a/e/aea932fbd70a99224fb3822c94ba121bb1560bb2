@@ -1,13 +1,0 @@
-
-b
-java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÉRINFOZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(éƒÞçúÿÿÿÿ8éÎÿòÕ0HÏRMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŸÚÿøÿÿÿÿ8éÎÿòÕ0HÐRMAJORZ
-CODE_SMELL
-]
-java:S1197"*Move the array designators [] to the type.(ò¢£»8éÎÿòÕ0HÑRMINORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8éÎÿòÕ0HÔRMAJORZ
-CODE_SMELL
